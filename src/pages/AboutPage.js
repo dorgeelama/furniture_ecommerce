@@ -4,7 +4,7 @@ import { PageHero } from '../components'
 import aboutImg from '../assets/hero-bcg.jpeg'
 
 const AboutPage = () => {
-  return <h4>about page</h4>
+  return <h4>about page this is a test to see if git is working</h4>
 }
 
 const Wrapper = styled.section`
